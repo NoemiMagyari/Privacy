@@ -1,0 +1,39 @@
+Politica de Confidențialitate
+Data intrării în vigoare: [Data]
+
+Introducere
+Această politică de confidențialitate descrie modul în care [Numele Aplicației] colectează, utilizează și protejează informațiile dumneavoastră atunci când utilizați aplicația noastră.
+
+Colectarea Informațiilor
+Informații pe care le colectăm:
+
+Informații personale: Putem colecta informații de identificare personală, cum ar fi numele, adresa de e-mail, numărul de telefon și alte detalii relevante.
+Informații de utilizare: Informații despre modul în care utilizați aplicația noastră, inclusiv tipul de dispozitiv, sistemul de operare, adresa IP, paginile vizitate și timpul petrecut în aplicație.
+Date de localizare: Putem colecta și utiliza date de localizare precise dacă permiteți acest lucru.
+Utilizarea Informațiilor
+Folosim informațiile colectate pentru:
+
+A furniza și îmbunătăți serviciile noastre.
+A personaliza experiența utilizatorului.
+A comunica cu dumneavoastră, inclusiv pentru suport tehnic și actualizări.
+A analiza utilizarea aplicației pentru a îmbunătăți funcționalitățile și securitatea.
+Distribuirea Informațiilor
+Nu vom vinde, închiria sau distribui informațiile dumneavoastră personale către terți fără consimțământul dumneavoastră, cu excepția cazurilor necesare pentru a respecta legea sau pentru a proteja drepturile noastre.
+
+Securitatea Informațiilor
+Implementăm măsuri de securitate adecvate pentru a proteja informațiile dumneavoastră împotriva accesului neautorizat, modificării, divulgării sau distrugerii.
+
+Drepturile Dumneavoastră
+Aveți dreptul să:
+
+Accesați informațiile pe care le deținem despre dumneavoastră.
+Solicitați corectarea sau ștergerea informațiilor personale.
+Opoziționați sau restricționa prelucrarea datelor dumneavoastră personale.
+Modificări ale Politicii de Confidențialitate
+Putem actualiza această politică de confidențialitate periodic. Vom notifica utilizatorii despre orice modificare prin intermediul aplicației sau prin alte mijloace adecvate.
+
+Contact
+Dacă aveți întrebări sau nelămuriri privind această politică de confidențialitate, vă rugăm să ne contactați la:
+
+Email: [Adresa de Email]
+Adresă: [Adresa Fizică]
